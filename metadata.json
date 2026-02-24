@@ -1,0 +1,5 @@
+{
+  "name": "Sales Dashboard",
+  "description": "An interactive dashboard for visualizing sales data, including revenue over time, revenue by product, and payment methods.",
+  "requestFramePermissions": []
+}
